@@ -13,38 +13,80 @@ Education
 ======
 
 2024-2026
+
 [**Master's degree in life sciences: Bioinformatics and Structural Bioimaging**](https://sciencesvie.unistra.fr/formation/master/odf-parcours-bioinformatique-et-bioimagerie-structurale-bbs-PR362-11493/)
+
+With Honors
+
 University of Strasbourg, France
 
 2021-2024
+
 [**Bachelor's degree in life sciences specialization in Biodiversity, Ecology and Evolution**](https://www.univ-tours.fr/formations/licence-sciences-technologies-sante-mention-sciences-de-la-vie-2)
 
+With Honors
 
-Work experience
+University of Tours, France
+
+
+Work experiences
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2026 - July 2026
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+    **Bioinformatics : Final-Year Internship**
+
+    [IFF](https://www.iff.com/), Dangé Saint Romain, France
+
+    Supervisors : Aurélien Cottin and Sabine Schermann
+
+    * Development of a bioinformatics pipeline using Nextflow to automate bacterial genome assembly and annotation within the company.
+      * NGS data: short reads, long reads, and hybrid data.
+    * Benchmarking of bioinformatics tools to facilitate regular pipeline updates.
+    * Use of GitLab for project tracking and collaborative management.
+    * Comparison of results from the legacy pipeline with new data using R and RStudio.
+    * Work on Linux servers, AWS, and HPC infrastructures.
+
+* March 2025 - May 2025
+  
+    **Bioinformatics Internship**
+  
+    [Haploteam](https://www.haploteam.org/), GMGM, University of Strasbourg, France
+  
+    Supervisor: Anne Friedrich
+
+    * Subject : Size of the acquired genome in allotriploid strains of yeast species : Brettanomyces bruxellensis 
+    * Experience with Linux, Bash and genomic data analysis tools (quality control, read mapping, variant calling, etc.)
+    * Data analysis and visualization using R and RStudio
+
+* Summer 2024 
+  
+    **Dishwasher**
+
+    La Chope, Le Touquet Paris Plage, France
+
+* Summer 2022
+  
+    **Server**
+
+    La Chope, Le Touquet Paris Plage, France
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bioinformatics
+  * Analysis of omics and high-throughput sequencing (NGS) data using command-line tools and Galaxy
+    * Quality control, variant calling, genome assembly and annotation
+  * Biological data analysis and visualization
+    * Development and automation of bioinformatics pipelines
+  * Programming and Data Analysis
+    * R / Bash / Python
+    * Basic knowledge of SQL and Java
+  * Project Management and Reproducible Research
+    * Git / GitLab / GitHub
+    * Collaborative project management and technical documentation
+* Biology
+  * Background in ecology, evolution, environmental biology, plant and animal biology, and microbiology
+
 
 <!-- Publications
 ======
