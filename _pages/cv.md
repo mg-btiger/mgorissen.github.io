@@ -16,17 +16,17 @@ Education
 
 [**Master's degree in life sciences: Bioinformatics and Structural Bioimaging**](https://sciencesvie.unistra.fr/formation/master/odf-parcours-bioinformatique-et-bioimagerie-structurale-bbs-PR362-11493/)
 
-With Honors
+  With Honors
 
-University of Strasbourg, France
+  University of Strasbourg, France
 
 2021-2024
 
 [**Bachelor's degree in life sciences specialization in Biodiversity, Ecology and Evolution**](https://www.univ-tours.fr/formations/licence-sciences-technologies-sante-mention-sciences-de-la-vie-2)
 
-With Honors
+  With Honors
 
-University of Tours, France
+  University of Tours, France
 
 
 Work experiences
@@ -73,19 +73,27 @@ Work experiences
   
 Skills
 ======
-* Bioinformatics
-  * Analysis of omics and high-throughput sequencing (NGS) data using command-line tools and Galaxy
-    * Quality control, variant calling, genome assembly and annotation
-  * Biological data analysis and visualization
-    * Development and automation of bioinformatics pipelines
-  * Programming and Data Analysis
-    * R / Bash / Python
-    * Basic knowledge of SQL and Java
-  * Project Management and Reproducible Research
-    * Git / GitLab / GitHub
-    * Collaborative project management and technical documentation
-* Biology
-  * Background in ecology, evolution, environmental biology, plant and animal biology, and microbiology
+
+<div class="cv-skills-grid">
+  <section class="cv-skill-card">
+    <h3>Bioinformatics</h3>
+    <p>Analysis of omics and high-throughput sequencing (NGS) data using command-line tools and Galaxy.</p>
+    <p>Quality control, variant calling, genome assembly and annotation, and development and automation of bioinformatics pipelines.</p>
+  </section>
+  <section class="cv-skill-card">
+    <h3>Programming &amp; Data Analysis</h3>
+    <p>R, Bash and Python; basic knowledge of SQL and Java.</p>
+    <p>Biological data analysis and visualization.</p>
+  </section>
+  <section class="cv-skill-card">
+    <h3>Project Management &amp; Reproducible Research</h3>
+    <p>Git, GitLab and GitHub; collaborative project management and technical documentation.</p>
+  </section>
+  <section class="cv-skill-card">
+    <h3>Biology</h3>
+    <p>Background in ecology, evolution, environmental biology, plant and animal biology, and microbiology.</p>
+  </section>
+</div>
 
 
 <!-- Publications
