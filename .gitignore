@@ -21,3 +21,9 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+
+#Ignore files for the moment
+_pages/portfolio.html
+_pages/publications.html
+_pages/talks.html
+_pages/teaching.html
