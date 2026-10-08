@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+2024-2026
+[**Master's degree in life sciences: Bioinformatics and Structural Bioimaging**](https://sciencesvie.unistra.fr/formation/master/odf-parcours-bioinformatique-et-bioimagerie-structurale-bbs-PR362-11493/)
+University of Strasbourg, France
+
+2021-2024
+[**Bachelor's degree in life sciences specialization in Biodiversity, Ecology and Evolution**](https://www.univ-tours.fr/formations/licence-sciences-technologies-sante-mention-sciences-de-la-vie-2)
+
 
 Work experience
 ======
