@@ -45,6 +45,62 @@
   margin: 1.5rem 0;
 }
 
+.cv-entry-list {
+  margin: 1.5rem 0 2.5rem;
+  padding-left: 1.5rem;
+  border-left: 2px solid var(--global-border-color);
+}
+
+.cv-entry {
+  position: relative;
+  margin: 0 0 1.75rem;
+  padding: 0 0 0.25rem 0.25rem;
+
+  &::before {
+    position: absolute;
+    top: 0.35rem;
+    left: calc(-1.5rem - 6px);
+    width: 10px;
+    height: 10px;
+    border: 2px solid var(--global-bg-color);
+    border-radius: 50%;
+    background: var(--global-base-color);
+    content: "";
+  }
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  h3 {
+    margin: 0.15rem 0 0.35rem;
+    font-size: 1.05em;
+  }
+
+  > p {
+    margin-bottom: 0.4rem;
+  }
+
+  ul {
+    margin: 0.5rem 0 0;
+  }
+}
+
+.cv-entry__date {
+  color: var(--global-text-color-light);
+  font-size: 0.85em;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.cv-entry__organization {
+  color: var(--global-text-color-light);
+}
+
+.cv-entry__detail {
+  font-size: 0.95em;
+}
+
 .cv-skill-card {
   padding: 1rem;
   border: 1px solid var(--global-border-color);

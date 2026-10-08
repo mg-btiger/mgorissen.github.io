@@ -12,64 +12,65 @@ redirect_from:
 Education
 ======
 
-2024-2026
+<div class="cv-entry-list">
+  <article class="cv-entry">
+    <p class="cv-entry__date">2024–2026</p>
+    <h3><a href="https://sciencesvie.unistra.fr/formation/master/odf-parcours-bioinformatique-et-bioimagerie-structurale-bbs-PR362-11493/">Master's degree in life sciences: Bioinformatics and Structural Bioimaging</a></h3>
+    <p class="cv-entry__organization">University of Strasbourg, France</p>
+    <p class="cv-entry__detail">With Honors</p>
+  </article>
 
-[**Master's degree in life sciences: Bioinformatics and Structural Bioimaging**](https://sciencesvie.unistra.fr/formation/master/odf-parcours-bioinformatique-et-bioimagerie-structurale-bbs-PR362-11493/)
-
-  With Honors
-
-  University of Strasbourg, France
-
-2021-2024
-
-[**Bachelor's degree in life sciences specialization in Biodiversity, Ecology and Evolution**](https://www.univ-tours.fr/formations/licence-sciences-technologies-sante-mention-sciences-de-la-vie-2)
-
-  With Honors
-
-  University of Tours, France
+  <article class="cv-entry">
+    <p class="cv-entry__date">2021–2024</p>
+    <h3><a href="https://www.univ-tours.fr/formations/licence-sciences-technologies-sante-mention-sciences-de-la-vie-2">Bachelor's degree in life sciences, specialization in Biodiversity, Ecology and Evolution</a></h3>
+    <p class="cv-entry__organization">University of Tours, France</p>
+    <p class="cv-entry__detail">With Honors</p>
+  </article>
+</div>
 
 
 Work experiences
 ======
 
-* January 2026 - July 2026
+<div class="cv-entry-list">
+  <article class="cv-entry">
+    <p class="cv-entry__date">January 2026 – July 2026</p>
+    <h3>Bioinformatics: Final-Year Internship</h3>
+    <p class="cv-entry__organization"><a href="https://www.iff.com/">IFF</a>, Dangé Saint Romain, France</p>
+    <p class="cv-entry__detail"><strong>Supervisors:</strong> Aurélien Cottin and Sabine Schermann</p>
+    <ul>
+      <li>Developed a bioinformatics pipeline using Nextflow to automate bacterial genome assembly and annotation, handling short-read, long-read, and hybrid NGS data.</li>
+      <li>Benchmarked bioinformatics tools to facilitate regular pipeline updates.</li>
+      <li>Used GitLab for project tracking and collaborative management.</li>
+      <li>Compared results from the legacy pipeline with new data using R and RStudio.</li>
+      <li>Worked on Linux servers, AWS, and HPC infrastructures.</li>
+    </ul>
+  </article>
 
-    **Bioinformatics : Final-Year Internship**
+  <article class="cv-entry">
+    <p class="cv-entry__date">March 2025 – May 2025</p>
+    <h3>Bioinformatics Internship</h3>
+    <p class="cv-entry__organization"><a href="https://www.haploteam.org/">Haploteam</a>, GMGM, University of Strasbourg, France</p>
+    <p class="cv-entry__detail"><strong>Supervisor:</strong> Anne Friedrich</p>
+    <ul>
+      <li>Studied the size of the acquired genome in allotriploid strains of the yeast species <em>Brettanomyces bruxellensis</em>.</li>
+      <li>Used Linux, Bash, and genomic data analysis tools for quality control, read mapping, and variant calling.</li>
+      <li>Analyzed and visualized data using R and RStudio.</li>
+    </ul>
+  </article>
 
-    [IFF](https://www.iff.com/), Dangé Saint Romain, France
+  <article class="cv-entry">
+    <p class="cv-entry__date">Summer 2024</p>
+    <h3>Dishwasher</h3>
+    <p class="cv-entry__organization">La Chope, Le Touquet Paris Plage, France</p>
+  </article>
 
-    Supervisors : Aurélien Cottin and Sabine Schermann
-
-    * Development of a bioinformatics pipeline using Nextflow to automate bacterial genome assembly and annotation within the company.
-      * NGS data: short reads, long reads, and hybrid data.
-    * Benchmarking of bioinformatics tools to facilitate regular pipeline updates.
-    * Use of GitLab for project tracking and collaborative management.
-    * Comparison of results from the legacy pipeline with new data using R and RStudio.
-    * Work on Linux servers, AWS, and HPC infrastructures.
-
-* March 2025 - May 2025
-  
-    **Bioinformatics Internship**
-  
-    [Haploteam](https://www.haploteam.org/), GMGM, University of Strasbourg, France
-  
-    Supervisor: Anne Friedrich
-
-    * Subject : Size of the acquired genome in allotriploid strains of yeast species : Brettanomyces bruxellensis 
-    * Experience with Linux, Bash and genomic data analysis tools (quality control, read mapping, variant calling, etc.)
-    * Data analysis and visualization using R and RStudio
-
-* Summer 2024 
-  
-    **Dishwasher**
-
-    La Chope, Le Touquet Paris Plage, France
-
-* Summer 2022
-  
-    **Server**
-
-    La Chope, Le Touquet Paris Plage, France
+  <article class="cv-entry">
+    <p class="cv-entry__date">Summer 2022</p>
+    <h3>Server</h3>
+    <p class="cv-entry__organization">La Chope, Le Touquet Paris Plage, France</p>
+  </article>
+</div>
   
 Skills
 ======
