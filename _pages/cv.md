@@ -94,6 +94,10 @@ Skills
     <h3>Biology</h3>
     <p>Background in ecology, evolution, environmental biology, plant and animal biology, and microbiology.</p>
   </section>
+  <section class="cv-skill-card">
+    <h3>Languages</h3>
+    <p>French (Native), English</p>
+  </section>
 </div>
 
 
