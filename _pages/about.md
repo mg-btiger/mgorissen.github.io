@@ -15,4 +15,4 @@ I’m Marieke Gorissen, a life sciences graduate with a background in bioinforma
 
 This website is a place to learn about my background and explore my work. The **Portfolio** highlights projects and practical experience, while my **CV** brings together my education, work experience, and skills.
 
-You can also visit [my CV](/cv/) directly. As I continue to develop my work, this site can grow to include other things such as research projects, publications, presentations, or articles.
+You can also visit [my CV](/mgorissen.github.io/cv/) directly. As I continue to develop my work, this site can grow to include other things such as research projects, publications, presentations, or articles.
