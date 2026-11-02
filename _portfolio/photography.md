@@ -6,4 +6,4 @@ collection: portfolio
 
 
 
-![Apremont](/images/photography/DSC04305.jpg)
+![Apremont]({{ site.baseurl }}/images/photography/DSC04305.jpg)
