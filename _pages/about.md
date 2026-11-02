@@ -1,18 +1,12 @@
 ---
 permalink: /
-title: "Life Sciences & Bioinformatics"
+title: "Life Sciences & Bioinformatics Resume"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
   - /resume
 ---
-
-## Bioinformatics CV
-
-I’m a life sciences graduate specializing in bioinformatics and structural
-bioimaging. I’m interested in applying computational approaches to biological
-data.
 
 {% include base_path %}
 
